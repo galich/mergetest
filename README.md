@@ -4,7 +4,7 @@ testing GH merge PR bugs
 
 Alpha updated
 
-Beta updated
+No a beta anymore
 
 Gamma
 
