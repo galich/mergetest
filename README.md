@@ -4,9 +4,9 @@ testing GH merge PR bugs
 
 Alpha
 
-Beta
+Beta updated
 
-Gamma
+Gamma updated
 
 
 I'm going to:
