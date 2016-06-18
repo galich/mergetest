@@ -6,7 +6,7 @@ Alpha updated
 
 Beta updated
 
-Gamma
+Gamma updated
 
 
 I'm going to:
