@@ -2,9 +2,9 @@
 testing GH merge PR bugs
 
 
-Alpha updated
+Alpha
 
-Beta updated
+Beta
 
 Gamma
 
